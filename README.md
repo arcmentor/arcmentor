@@ -24,7 +24,7 @@ I'm passionate about building scalable applications, solving real-world problems
 
 ## 🔥 **Tech Stack**
 - **Languages:** Python, JavaScript, TypeScript, Java  
-- **Frontend:** React.js, Next.js, Nuxt.js, Ionic, Vue.js  
+- **Frontend:** React.js, Redux, Next.js, Nuxt.js, Ionic, Vue.js  
 - **Backend:** Node.js, Express, Flask, Spring Boot  
 - **Databases:** PostgreSQL, SQLite, Prisma, Firebase  
 - **DevOps & Cloud:** Docker, AWS (EC2, S3, Lambda, ECS), GCP  
@@ -34,9 +34,8 @@ I'm passionate about building scalable applications, solving real-world problems
 
 ## 📌 **Projects & Work**
 ### 🛠️ Recent Projects
-- **🚀 [Project Name](#)** → *Brief description of what it does*
-- **🌍 [Another Project](#)** → *What problem it solves*
-- **🛡️ [Security-related Project](#)** → *Tech stack used*
+- **🚀 [[playerprops.ai](https://playerprops.ai/)](#)** → where innovation meets expertise in the world of sports betting and fantasy sports. At the helm of our ship is Trevis Waters, a visionary leader with a diverse background spanning not only sports betting and fantasy sports but also realms like education, live show entertainment, and sales. Trevis embarked on his journey in the fantasy sports and sports betting arena in 2011, marking the genesis of his passion for empowering bettors.
+
 
 Check out more on my **[GitHub Repositories](https://github.com/arcmentor?tab=repositories)**.
 
@@ -49,9 +48,6 @@ Check out more on my **[GitHub Repositories](https://github.com/arcmentor?tab=re
 ---
 
 ## 💬 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
