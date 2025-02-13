@@ -42,7 +42,6 @@ Check out more on my **[GitHub Repositories](https://github.com/arcmentor?tab=re
 ---
 
 ## 📊 **GitHub Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=arcmentor&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcmentor&layout=compact&theme=react)
 
 ---
